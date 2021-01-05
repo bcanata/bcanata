@@ -1,4 +1,4 @@
-![Header image](https://github.com/bcanata/bcanata/blob/main/Github_Header.png)
+![Header image](https://github.com/bcanata/bcanata/blob/main/header.png)
 
 I'm an English Teacher who loves to learn about new things.
 
