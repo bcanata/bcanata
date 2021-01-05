@@ -1,4 +1,5 @@
 ![Header image](https://github.com/bcanata/bcanata/blob/main/Github_Header.png)
+
 I'm an English Teacher who loves to learn about new things.
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
