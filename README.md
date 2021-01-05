@@ -1,16 +1,15 @@
-### Hi there 👋
+![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
+I'm an English Teacher who loves to learn about new things.
 
-<!--
-**bcanata/bcanata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-canata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/canata/)](https://www.linkedin.com/in/canata/)
+[![Instagram Badge](https://img.shields.io/badge/-bugracanata-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bugracanata/)](https://www.instagram.com/roshanjayraj/)
+[![Website Badge](https://img.shields.io/badge/-bugracanata.com.tr-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://bugracanata.com.tr/)](https://bugracanata.com.tr/)
+[![Gmail Badge](https://img.shields.io/badge/-bcanata@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bcanata@gmail.com)](mailto:bcanata@gmail.com)
+
+## ⚡ My interests:
+- Software Development
+- Cycling
+- Ham Radio
