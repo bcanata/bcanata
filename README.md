@@ -9,7 +9,7 @@ I'm an English Teacher who loves to learn about new things.
 [![Instagram Badge](https://img.shields.io/badge/-bugracanata-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bugracanata/)](https://www.instagram.com/roshanjayraj/)
 [![Website Badge](https://img.shields.io/badge/-bugracanata.com.tr-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://bugracanata.com.tr/)](https://bugracanata.com.tr/)
 [![Gmail Badge](https://img.shields.io/badge/-bcanata@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bcanata@gmail.com)](mailto:bcanata@gmail.com)
-![View Badge](https://komarev.com/ghpvc/?username=bcanata&label=views&color=000000&style=flat)
+![View Badge](https://komarev.com/ghpvc/?username=bcanata&label=views&color=000000&style=flat-square)
 
 ## ⚡ My interests:
 - Software Development
