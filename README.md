@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
+![Header image](https://raw.githubusercontent.com/bcanata/bcanata/master/Assets/GitHub_Header.jpg)
 I'm an English Teacher who loves to learn about new things.
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
