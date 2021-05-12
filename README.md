@@ -12,6 +12,7 @@ I'm an English Teacher who loves to learn about new things.
 [![Facebook Badge](https://img.shields.io/badge/-canata-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/canata)](https://facebook.com/canata)
 [![Linkedin Badge](https://img.shields.io/badge/-canata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/canata/)](https://www.linkedin.com/in/canata/)
 [![Medium Badge](https://img.shields.io/badge/-bugracanata-12100E?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@bugracanata)](https://medium.com/@bugracanata)
+[![Ghost Badge](https://img.shields.io/badge/-notlar.im-738A94?style=flat-square&logo=Ghost&logoColor=white&link=https://notlar.im)](https://notlar.im)
 [![Youtube Badge](https://img.shields.io/badge/-Buğra%20Hoca-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCAhzhgIOmzY317fisHEsPXg)](https://www.youtube.com/channel/UCAhzhgIOmzY317fisHEsPXg)
 [![Gmail Badge](https://img.shields.io/badge/-bcanata@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bcanata@gmail.com)](mailto:bcanata@gmail.com)
 ![View Badge](https://komarev.com/ghpvc/?username=bcanata&label=views&color=000000&style=flat-square)
