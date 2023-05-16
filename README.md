@@ -1,9 +1,8 @@
 ![Header image](https://github.com/bcanata/bcanata/blob/main/header.png)
 
-I'm an English Teacher who loves to learn about new things.
+👋 Welcome to my GitHub profile! I'm an English Teacher with a passion for continuous learning and exploration.
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
-
 
 [![Website Badge](https://img.shields.io/badge/-bugracanata.com.tr-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://bugracanata.com.tr/)](https://bugracanata.com.tr/)
 [![Twitter Badge](https://img.shields.io/badge/-bugrateacher-2CA5E0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/bugrateacher/)](https://twitter.com/bugrateacher)
@@ -17,7 +16,10 @@ I'm an English Teacher who loves to learn about new things.
 [![Gmail Badge](https://img.shields.io/badge/-bcanata@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bcanata@gmail.com)](mailto:bcanata@gmail.com)
 ![View Badge](https://komarev.com/ghpvc/?username=bcanata&label=views&color=000000&style=flat-square)
 
-## ⚡ My interests:
-- Software Development
-- Cycling
-- Ham Radio
+## ⚡ Interests:
+- Software Development: I enjoy diving into the world of software development, constantly expanding my knowledge and skills in areas such as PHP, SQL, Laravel, Docker, JavaScript, HTML, and CSS.
+- Cycling: When I'm not coding, you can often find me on two wheels, exploring new paths and enjoying the freedom of cycling.
+- Ham Radio: As a licensed ham radio operator with the callsign TA1ANW, I love connecting with fellow radio enthusiasts and exploring the world of amateur radio communication.
+I believe in the power of collaboration and open-source communities, and GitHub is an incredible platform that allows me to learn from others and contribute to exciting projects.
+
+Let's connect, collaborate, and make great things happen!
