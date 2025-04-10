@@ -1,25 +1,67 @@
 ![Header image](https://github.com/bcanata/bcanata/blob/main/header.png)
 
-👋 Welcome to my GitHub profile! I'm an English Teacher with a passion for continuous learning and exploration.
+<h1 align="center">Hi there, I'm Buğra 👋</h1>
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<p align="center">📚 English Teacher | 👨‍💻 Developer | 📻 Ham Radio Operator | 🚴‍♂️ Cyclist | 🇹🇷 Based in Tekirdağ</p>
 
-[![Website Badge](https://img.shields.io/badge/-bugracanata.com.tr-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://bugracanata.com.tr/)](https://bugracanata.com.tr/)
-[![Twitter Badge](https://img.shields.io/badge/-bugrateacher-2CA5E0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/bugrateacher/)](https://twitter.com/bugrateacher)
-[![Telegram Badge](https://img.shields.io/badge/-bug_ra-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/bug_ra/)](https://t.me/bug_ra/)
-[![Instagram Badge](https://img.shields.io/badge/-bugracanata-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bugracanata/)](https://www.instagram.com/bugracanata/)
-[![Facebook Badge](https://img.shields.io/badge/-canata-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/canata)](https://facebook.com/canata)
-[![Linkedin Badge](https://img.shields.io/badge/-canata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/canata/)](https://www.linkedin.com/in/canata/)
-[![Medium Badge](https://img.shields.io/badge/-bugracanata-12100E?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@bugracanata)](https://medium.com/@bugracanata)
-[![Ghost Badge](https://img.shields.io/badge/-notlar.im-738A94?style=flat-square&logo=Ghost&logoColor=white&link=https://notlar.im)](https://notlar.im)
-[![Youtube Badge](https://img.shields.io/badge/-Buğra%20Hoca-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCAhzhgIOmzY317fisHEsPXg)](https://www.youtube.com/channel/UCAhzhgIOmzY317fisHEsPXg)
-[![Gmail Badge](https://img.shields.io/badge/-bcanata@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bcanata@gmail.com)](mailto:bcanata@gmail.com)
-![View Badge](https://komarev.com/ghpvc/?username=bcanata&label=views&color=000000&style=flat-square)
+<p align="center">
+  <a href="https://bugracanata.com.tr/"><img src="https://img.shields.io/badge/-bugracanata.com.tr-e34f26?style=flat-square&logo=html5&logoColor=white"></a>
+  <a href="https://twitter.com/bugrateacher"><img src="https://img.shields.io/badge/-@bugrateacher-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
+  <a href="https://t.me/bug_ra"><img src="https://img.shields.io/badge/-@bug_ra-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
+  <a href="https://www.instagram.com/bugracanata/"><img src="https://img.shields.io/badge/-bugracanata-e4405f?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="https://facebook.com/canata"><img src="https://img.shields.io/badge/-canata-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/canata/"><img src="https://img.shields.io/badge/-canata-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://medium.com/@bugracanata"><img src="https://img.shields.io/badge/-@bugracanata-12100E?style=flat-square&logo=medium&logoColor=white"></a>
+  <a href="https://notlar.im"><img src="https://img.shields.io/badge/-notlar.im-738A94?style=flat-square&logo=ghost&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCAhzhgIOmzY317fisHEsPXg"><img src="https://img.shields.io/badge/-Buğra%20Hoca-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
+  <a href="mailto:bcanata@gmail.com"><img src="https://img.shields.io/badge/-bcanata@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
-## ⚡ Interests:
-- Software Development: I enjoy diving into the world of software development, constantly expanding my knowledge and skills in areas such as PHP, SQL, Laravel, Docker, JavaScript, HTML, and CSS.
-- Cycling: When I'm not coding, you can often find me on two wheels, exploring new paths and enjoying the freedom of cycling.
-- Ham Radio: As a licensed ham radio operator with the callsign TA1ANW, I love connecting with fellow radio enthusiasts and exploring the world of amateur radio communication.
-I believe in the power of collaboration and open-source communities, and GitHub is an incredible platform that allows me to learn from others and contribute to exciting projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bcanata&label=Profile+views&color=0e75b6&style=flat-square" alt="bcanata" />
+</p>
 
-Let's connect, collaborate, and make great things happen!
+---
+
+<img align="right" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200">
+
+### 🚀 About Me
+
+I'm **Buğra Canata** — an English teacher by profession, a self-taught developer by passion, and a lifelong learner who believes in the power of open-source and community. Whether I'm teaching in class, writing code at night, or making radio contacts across the globe, I'm always up for a new challenge.
+
+### 🛠️ Tech Stack
+
+- **Languages**: PHP, JavaScript, HTML/CSS, SQL  
+- **Frameworks & Tools**: Laravel, Tailwind CSS, Docker, Livewire, Git  
+- **Other Interests**: Static Site Generators (Jekyll), Telegram Bots, CapRover, 3D Printing, Raspberry Pi
+
+### 🎯 Current Projects
+
+- 🛰️ Amateur Radio Tools & Bots  
+- 📷 Educational content & digital classrooms  
+- 🧪 Self-hosted experiments with open-source tools  
+- 📚 Language learning resources for Turkish learners  
+
+---
+
+### ⚡ Fun Facts
+
+- 📻 My ham callsign is **TA1ANW** — I'm active on VHF/UHF and digital modes.  
+- 🚴 I'm happiest when cycling long distances, with or without a destination.  
+- 📸 I’m passionate about photography and shoot with a Canon EOS M50 Mark II. 
+- 🌍 I enjoy translating technical content between **Turkish** and **English**.
+
+---
+
+### 🤝 Let's Collaborate
+
+I’m always open to:
+- Contributions to educational tech tools
+- Collaborations in amateur radio communities
+- Projects that intersect **language, tech, and accessibility**
+
+Drop me a message or follow along! Let’s build, learn, and grow together.
+
+---
+
+📌 *"Learn something new every day. Then teach it."*
