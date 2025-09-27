@@ -1,67 +1,79 @@
-![Header image](https://github.com/bcanata/bcanata/blob/main/header.png)
+![Buğra Canata - Full-stack developer & English teacher building community tools](https://github.com/bcanata/bcanata/blob/main/header.png)
 
-<h1 align="center">Hi there, I'm Buğra 👋</h1>
-
-<p align="center">📚 English Teacher | 👨‍💻 Developer | 📻 Ham Radio Operator | 🚴‍♂️ Cyclist | 🇹🇷 Based in Tekirdağ</p>
-
-<p align="center">
-  <a href="https://bugracanata.com.tr/"><img src="https://img.shields.io/badge/-bugracanata.com.tr-e34f26?style=flat-square&logo=html5&logoColor=white"></a>
-  <a href="https://twitter.com/bugrateacher"><img src="https://img.shields.io/badge/-@bugrateacher-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
-  <a href="https://t.me/bug_ra"><img src="https://img.shields.io/badge/-@bug_ra-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
-  <a href="https://www.instagram.com/bugracanata/"><img src="https://img.shields.io/badge/-bugracanata-e4405f?style=flat-square&logo=instagram&logoColor=white"></a>
-  <a href="https://facebook.com/canata"><img src="https://img.shields.io/badge/-canata-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/canata/"><img src="https://img.shields.io/badge/-canata-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://medium.com/@bugracanata"><img src="https://img.shields.io/badge/-@bugracanata-12100E?style=flat-square&logo=medium&logoColor=white"></a>
-  <a href="https://notlar.im"><img src="https://img.shields.io/badge/-notlar.im-738A94?style=flat-square&logo=ghost&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCAhzhgIOmzY317fisHEsPXg"><img src="https://img.shields.io/badge/-Buğra%20Hoca-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
-  <a href="mailto:bcanata@gmail.com"><img src="https://img.shields.io/badge/-bcanata@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white"></a>
-</p>
+<h1 align="center">Hi, I'm Buğra</h1>
+<p align="center"><b>Full-stack developer & English teacher.</b> I build community tools for radio, robotics, and education.</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bcanata&label=Profile+views&color=0e75b6&style=flat-square" alt="bcanata" />
+  <a href="https://bugracanata.com.tr">Website</a> ·
+  <a href="https://x.com/bugracanata">X</a> ·
+  <a href="https://www.linkedin.com/in/canata/">LinkedIn</a> ·
+  <a href="mailto:bugra@canata.com.tr">Email</a>
 </p>
 
----
+## Highlights
+- 📡 Creator of the **Amatör Telsizcilik** ecosystem (web, bot, mobile). Callsign **TA1ANW**.
+- 🤖 Mentor, **FRC Team 8092 "G.O.A.T."** (Tekirdağ's first & only FIRST Robotics team).
+- 🛰️ Board member, **Amatör Radyocular Derneği (ARC)** — leading digital initiatives.
 
-<img align="right" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200">
+## Featured projects
+- **Amatör Telsizcilik** — Laravel platform for 500+ repeaters across 81 provinces.
+  [Site](https://amatortelsizcilik.com.tr) · [Android](https://play.google.com/store/apps/details?id=com.tr.amatortelsizcilik&hl=tr) · [iOS](https://apps.apple.com/tr/app/amat%C3%B6r-telsiz-r%C3%B6le/id6746983515)
+- **@telsizbot** — Telegram bot for real-time repeater/APRS queries.
+  [Open Telegram](https://t.me/telsizbot)
+- **radio.org.tr** — Astro site & infra for ARC.
+  [Visit](https://radio.org.tr)
+- **8092.tr** — Team resources for FRC #8092.
+  [Visit](https://8092.tr)
 
-### 🚀 About Me
-
-I'm **Buğra Canata** — an English teacher by profession, a self-taught developer by passion, and a lifelong learner who believes in the power of open-source and community. Whether I'm teaching in class, writing code at night, or making radio contacts across the globe, I'm always up for a new challenge.
-
-### 🛠️ Tech Stack
-
-- **Languages**: PHP, JavaScript, HTML/CSS, SQL  
-- **Frameworks & Tools**: Laravel, Tailwind CSS, Docker, Livewire, Git  
-- **Other Interests**: Static Site Generators (Jekyll), Telegram Bots, CapRover, 3D Printing, Raspberry Pi
-
-### 🎯 Current Projects
-
-- 🛰️ Amateur Radio Tools & Bots  
-- 📷 Educational content & digital classrooms  
-- 🧪 Self-hosted experiments with open-source tools  
-- 📚 Language learning resources for Turkish learners  
+## Toolbox
+PHP (Laravel) · MySQL · JavaScript · Tailwind CSS · Astro · Docker · CapRover · Raspberry Pi
 
 ---
 
-### ⚡ Fun Facts
+**Open to collaborate on:** edu-tech, radio tools, robotics mentoring
+📧 [bugra@canata.com.tr](mailto:bugra@canata.com.tr)
 
-- 📻 My ham callsign is **TA1ANW** — I'm active on VHF/UHF and digital modes.  
-- 🚴 I'm happiest when cycling long distances, with or without a destination.  
-- 📸 I’m passionate about photography and shoot with a Canon EOS M50 Mark II. 
-- 🌍 I enjoy translating technical content between **Turkish** and **English**.
+<details>
+<summary>More about me, experience & fun facts</summary>
 
----
+### About me
+Full-stack developer and English teacher who bridges education and technology. With 10+ years teaching in Turkey's education system and 18+ years of freelance translation, I bring both technical expertise and communication skills to everything I build.
 
-### 🤝 Let's Collaborate
+By day, I teach English; by night, I code solutions that serve communities. Whether I'm debugging code, mentoring students, or making radio contacts worldwide, I'm driven by a simple philosophy: *learn something new every day, then share it*.
 
-I’m always open to:
-- Contributions to educational tech tools
-- Collaborations in amateur radio communities
-- Projects that intersect **language, tech, and accessibility**
+### Experience & Education
+- **👨‍🏫 English Teacher** | Turkey's Public Education System (2013-Present)
+- **🌍 Freelance Translator** | Turkish ↔ English (2005-Present)
+- **🤖 AI/ML Contributor** | Outlier AI (2023-Present) — Turkish language contributor
+- **🎥 Content Creator** | "Buğra Hoca" on YouTube and social media
 
-Drop me a message or follow along! Let’s build, learn, and grow together.
+### Education
+- **BA** English Language & Literature | Hacettepe Üniversitesi (2006-2010)
+- **AS** Computer Programming | Anadolu Üniversitesi (2021-2023)
+- **AA** Photography & Cinematography | Anadolu Üniversitesi (2023-2025)
 
----
+### Fun facts
+- 📻 Ham radio callsign **TA1ANW** — active on VHF/UHF and digital modes
+- 🚴 Happiest when cycling long distances, with or without a destination
+- 📸 Capture moments with Canon EOS M50 Mark II
+- 🏗️ Self-hosting enthusiast experimenting with Docker, CapRover
+- 🌍 18+ years bridging technical content between Turkish and English
 
-📌 *"Learn something new every day. Then teach it."*
+### Currently exploring
+- Modern JavaScript frameworks and tooling
+- Container-native workflows and cloud technologies
+
+</details>
+
+<details>
+<summary>Elsewhere on the internet</summary>
+
+- [Telegram](https://t.me/bug_ra) — Quick messages
+- [Instagram](https://www.instagram.com/bugracanata/) — Life snapshots
+- [YouTube](https://youtube.com/@bugra-hoca) — Educational content
+- [Bluesky](https://bsky.app/profile/canata.dev) — Social updates
+- [Strava](https://www.strava.com/athletes/13786731) — Cycling activities
+- [Medium](https://medium.com/@bugracanata) — Longer thoughts
+- [Facebook](https://facebook.com/canata) — Community connections
+
+</details>
