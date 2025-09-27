@@ -25,7 +25,7 @@
   [Visit](https://8092.tr)
 
 ## Toolbox
-PHP (Laravel) · MySQL · JavaScript · Tailwind CSS · Astro · Docker · CapRover · Raspberry Pi
+PHP (Laravel) · MySQL · JavaScript · Tailwind CSS · Astro · Docker · Dokploy · CasaOS · Raspberry Pi
 
 ---
 
