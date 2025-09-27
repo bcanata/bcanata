@@ -1,6 +1,5 @@
 ![Buğra Canata - Full-stack developer & English teacher building community tools](https://github.com/bcanata/bcanata/blob/main/header.png)
 
-<h1 align="center">Hi, I'm Buğra</h1>
 <p align="center"><b>Full-stack developer & English teacher.</b> I build community tools for radio, robotics, and education.</p>
 
 <p align="center">
