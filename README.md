@@ -12,6 +12,7 @@
 ## Highlights
 - 📡 Creator of the **Amatör Telsizcilik** ecosystem (web, bot, mobile). Callsign **TA1ANW**.
 - 🤖 Mentor, **FRC Team 8092 "G.O.A.T."** (Tekirdağ's first & only FIRST Robotics team).
+- 🧠 **AI/ML Contributor** at **Outlier AI** — RLHF & Prompt Engineering (Turkish).
 - 🛰️ Board member, **Amatör Radyocular Derneği (ARC)** — leading digital initiatives.
 
 ## Featured projects
@@ -25,7 +26,7 @@
   [Visit](https://8092.tr)
 
 ## Toolbox
-PHP (Laravel) · MySQL · JavaScript · Tailwind CSS · Astro · Docker · Dokploy · CasaOS · Raspberry Pi
+PHP (Laravel) · MySQL · JavaScript · Tailwind CSS · Astro · Docker · Traefik · Dokploy · Raspberry Pi
 
 ---
 
@@ -36,14 +37,14 @@ PHP (Laravel) · MySQL · JavaScript · Tailwind CSS · Astro · Docker · Dokpl
 <summary>More about me, experience & fun facts</summary>
 
 ### About me
-Full-stack developer and English teacher who bridges education and technology. With 10+ years teaching in Turkey's education system and 18+ years of freelance translation, I bring both technical expertise and communication skills to everything I build.
+Full-stack developer and English teacher who bridges education and technology. With 10+ years teaching in Turkey's education system and 20+ years of freelance translation, I bring both technical expertise and communication skills to everything I build.
 
-By day, I teach English; by night, I code solutions that serve communities. Whether I'm debugging code, mentoring students, or making radio contacts worldwide, I'm driven by a simple philosophy: *learn something new every day, then share it*.
+By day, I teach English and mentor robotics students; by night, I code solutions that serve communities. Whether I'm debugging code, designing LMS tools, or making radio contacts worldwide, I'm driven by a simple philosophy: *learn something new every day, then share it*.
 
-### Experience & Education
+### Experience
 - **👨‍🏫 English Teacher** | Turkey's Public Education System (2013-Present)
 - **🌍 Freelance Translator** | Turkish ↔ English (2005-Present)
-- **🤖 AI/ML Contributor** | Outlier AI (2023-Present) — Turkish language contributor
+- **🤖 AI/ML Contributor** | Outlier AI (2023-Present)
 - **🎥 Content Creator** | "Buğra Hoca" on YouTube and social media
 
 ### Education
@@ -55,12 +56,12 @@ By day, I teach English; by night, I code solutions that serve communities. Whet
 - 📻 Ham radio callsign **TA1ANW** — active on VHF/UHF and digital modes
 - 🚴 Happiest when cycling long distances, with or without a destination
 - 📸 Capture moments with Canon EOS M50 Mark II
-- 🏗️ Self-hosting enthusiast experimenting with Docker, CapRover
-- 🌍 18+ years bridging technical content between Turkish and English
+- 🏗️ Self-hosting enthusiast experimenting with Docker, CapRover, and Traefik
+- 🌍 20+ years bridging technical content between Turkish and English
 
 ### Currently exploring
 - Modern JavaScript frameworks and tooling
-- Container-native workflows and cloud technologies
+- Container-native workflows (DigitalOcean/VPS)
 
 </details>
 
