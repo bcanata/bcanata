@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://bugracanata.com.tr">Website</a> ·
+  <a href="https://notlar.im">Blog</a> ·
   <a href="https://www.qrz.com/db/TA1JS">QRZ</a> ·
   <a href="https://x.com/bugracanata">X</a> ·
   <a href="https://www.linkedin.com/in/canata/">LinkedIn</a> ·
@@ -18,6 +19,9 @@
 - 🛰️ Member of **Amatör Radyocular Derneği (ARC)** — supporting community + digital initiatives (club callsign **YM1KTC**).
 
 ## Featured projects
+- **pitos** — AI-native team platform for FRC, with a jury-reflex personality; built with and for FRC #8092.
+  [Site](https://pitos.8092.tr) ·
+  [Source](https://github.com/bcanata/pitos)
 - **Amatör Telsiz Röle** — repeater directory for Turkey (web + apps + bot).
   [Site](https://amatortelsizcilik.com.tr) ·
   [Map](https://amatortelsizcilik.com.tr/harita) ·
@@ -30,12 +34,21 @@
 - **APRSSwift** — native APRS client for iPhone, iPad, Mac, and Apple Watch: live station map, real-time packet log, two-way messaging and SmartBeaconing, with decoding of position, Mic-E, compressed, object, weather and telemetry packets.
   [Site](https://aprs.canata.dev) ·
   [App Store](https://apps.apple.com/tr/app/id6791003285)
+- **Amatör Telsiz Sınavı** — iOS prep app for Turkey's amateur radio licence exam: 505 explained questions, FSRS spaced-repetition flashcards, realistic mock exams and an application guide — fully offline.
+  [Site](https://amatortelsizsinavi.canata.dev) ·
+  [App Store](https://apps.apple.com/tr/app/id6792185455)
+- **Tekrar** — spaced-repetition flashcards for iPhone and iPad: FSRS-6 scheduling, `.apkg` deck import, fully offline, no accounts, no ads.
+  [Site](https://tekrar.canata.dev) ·
+  [App Store](https://apps.apple.com/app/tekrar-flashcards/id6788560658)
 - **@telsizbot** — Telegram bot for real-time repeater/APRS queries.
   [Open Telegram](https://t.me/telsizbot)
 - **radio.org.tr** — ARC website & infrastructure.
   [Visit](https://radio.org.tr)
 - **8092.tr** — resources for FRC #8092.
   [Visit](https://8092.tr)
+- **notlar.im** — personal blog: software, amateur radio, cycling, and whatever else comes along.
+  [Read](https://notlar.im) ·
+  [Source](https://github.com/bcanata/notlar.im)
 
 ## Toolbox
 PHP (Laravel) · MySQL · JavaScript · Tailwind CSS · Astro · Docker · Traefik · Dokploy · Raspberry Pi
