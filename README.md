@@ -51,7 +51,7 @@
   [Source](https://github.com/bcanata/notlar.im)
 
 ## Toolbox
-PHP (Laravel) · MySQL · JavaScript · Tailwind CSS · Astro · Docker · Traefik · Dokploy · Raspberry Pi
+PHP (Laravel) · MySQL · JavaScript · Tailwind CSS · Astro · Swift (SwiftUI) · Docker · Traefik · Dokploy · Raspberry Pi
 
 ## How I work
 **AI-assisted, human-verified.** I use coding agents daily, and what ships is checked rather than trusted — by whatever the work actually calls for: a measurement on the real hardware, the real flow driven in a real browser, tests, a native speaker reading a translation, a query run against production data. Commits and reviews an assistant helped write carry `Co-Authored-By` trailers, so the history says so instead of pretending otherwise.
