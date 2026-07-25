@@ -27,6 +27,9 @@
   [Flash it in your browser](https://uvk5.canata.dev) ·
   [Firmware](https://github.com/bcanata/uv-k5-firmware-ta1js) ·
   [Web tools](https://github.com/bcanata/uv-k5-aprs-beacon)
+- **APRSSwift** — native APRS client for iPhone, iPad, Mac, and Apple Watch: live station map, real-time packet log, two-way messaging and SmartBeaconing, with decoding of position, Mic-E, compressed, object, weather and telemetry packets.
+  [Site](https://aprs.canata.dev) ·
+  [App Store](https://apps.apple.com/tr/app/id6791003285)
 - **@telsizbot** — Telegram bot for real-time repeater/APRS queries.
   [Open Telegram](https://t.me/telsizbot)
 - **radio.org.tr** — ARC website & infrastructure.
