@@ -41,9 +41,9 @@
 PHP (Laravel) · MySQL · JavaScript · Tailwind CSS · Astro · Docker · Traefik · Dokploy · Raspberry Pi
 
 ## How I work
-**AI-assisted, human-verified.** I use coding agents daily, and I verify what ships rather than trusting output: firmware changes are measured on the air with an SDR before I claim they work, web changes are exercised in a real browser, translations get a key-by-key structural diff plus a native-speaker pass. Commits and PR reviews that an assistant helped write carry `Co-Authored-By` trailers, so the history says so instead of pretending otherwise.
+**AI-assisted, human-verified.** I use coding agents daily, and what ships is checked rather than trusted — by whatever the work actually calls for: a measurement on the real hardware, the real flow driven in a real browser, tests, a native speaker reading a translation, a query run against production data. Commits and reviews an assistant helped write carry `Co-Authored-By` trailers, so the history says so instead of pretending otherwise.
 
-When I get something wrong I say so in the thread and post the measurement that proves it — that has already happened publicly more than once. If you find something broken, open an issue and I will show you the evidence or fix it.
+When I get something wrong I say so in the thread and post the evidence that settles it — which has already happened publicly more than once. If you find something broken, open an issue and I will show you the check or fix it.
 
 ---
 
