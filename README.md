@@ -23,6 +23,10 @@
   [Map](https://amatortelsizcilik.com.tr/harita) ·
   [Android](https://play.google.com/store/apps/details?id=com.tr.amatortelsizcilik&hl=tr) ·
   [iOS](https://apps.apple.com/tr/app/amat%C3%B6r-telsiz-r%C3%B6le/id6746983515)
+- **UV-K5 APRS** — firmware that turns a Quansheng UV-K5 handheld into a standalone APRS station: position beacons, packet decoding and text messaging with no external TNC, plus browser tools to flash and configure it over USB.
+  [Flash it in your browser](https://uvk5.canata.dev) ·
+  [Firmware](https://github.com/bcanata/uv-k5-firmware-ta1js) ·
+  [Web tools](https://github.com/bcanata/uv-k5-aprs-beacon)
 - **@telsizbot** — Telegram bot for real-time repeater/APRS queries.
   [Open Telegram](https://t.me/telsizbot)
 - **radio.org.tr** — ARC website & infrastructure.
@@ -31,7 +35,7 @@
   [Visit](https://8092.tr)
 
 ## Toolbox
-PHP (Laravel) · MySQL · JavaScript · Tailwind CSS · Astro · Docker · Traefik · Dokploy · Raspberry Pi
+PHP (Laravel) · MySQL · JavaScript · Tailwind CSS · Astro · Docker · Traefik · Dokploy · Raspberry Pi · Embedded C (ARM Cortex-M)
 
 ---
 
