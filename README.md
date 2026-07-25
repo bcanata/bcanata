@@ -35,7 +35,7 @@
   [Visit](https://8092.tr)
 
 ## Toolbox
-PHP (Laravel) · MySQL · JavaScript · Tailwind CSS · Astro · Docker · Traefik · Dokploy · Raspberry Pi · Embedded C (ARM Cortex-M)
+PHP (Laravel) · MySQL · JavaScript · Tailwind CSS · Astro · Docker · Traefik · Dokploy · Raspberry Pi
 
 ---
 
