@@ -8,7 +8,8 @@
   <a href="https://www.qrz.com/db/TA1JS">QRZ</a> ·
   <a href="https://x.com/bugracanata">X</a> ·
   <a href="https://www.linkedin.com/in/canata/">LinkedIn</a> ·
-  <a href="mailto:bugra@canata.com.tr">Email</a>
+  <a href="mailto:bugra@canata.com.tr">Email</a> ·
+  <a href="https://github.com/sponsors/bcanata">Sponsor</a>
 </p>
 
 ## Highlights
@@ -103,3 +104,14 @@ Full-stack developer and English teacher bridging education and technology. I’
 - [Facebook](https://facebook.com/canata)
 
 </details>
+
+---
+
+### Sponsor
+
+Açık kaynak çalışmalarımı [GitHub Sponsors](https://github.com/sponsors/bcanata) üzerinden
+destekleyebilirsiniz — destek, servislerin sunucu faturalarına ve firmware'i gerçek donanımda
+test etmek için gereken telsizlere gidiyor.
+
+You can support my open-source work via [GitHub Sponsors](https://github.com/sponsors/bcanata) —
+it covers server bills for the services and the radios I need to test firmware on real hardware.
